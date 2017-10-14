@@ -2,17 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5239267-c8d3-42c8-ba49-f11700a450f9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/uploads/avatar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/uploads/git-flow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/CNAME" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/Git 分支管理&amp;发版流程.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/JS简述.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/Shadowsocks-server.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/_posts/hexo-theme-beantech/Demo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/_posts/hexo-theme-beantech/home_posts_tag-false.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/_posts/hexo-theme-beantech/home_posts_tag-true.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/img/404-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/img/beantech-desktop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/img/contact-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/img/header_img/Iron-Man-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/img/header_img/archive-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/img/header_img/home-bg-2-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/img/header_img/home-bg-o.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/img/header_img/tag-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/img/header_img/tf-logo-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/img/icon_wechat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/img/ironman-draw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/img/signature/BeanTechSign-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/img/signature/BeanTechSign-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/images/ironman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/images/rocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/_config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/scaffolds/draft.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/scaffolds/page.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/scaffolds/post.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/404.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/_posts/hexo-theme-beantech.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/about/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/archive/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/source/tags/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/_config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/de.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/en.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/es.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/no.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/pl.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/ru.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/zh-CN.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/zh-TW.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/404.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_partial/footer.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_partial/head.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_partial/header.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_partial/nav.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_partial/pagination.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_partial/sidebar.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_partial/toc.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_widget/archive.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_widget/category.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_widget/featured-tags.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_widget/friends-blog.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_widget/recent-posts.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_widget/short-about.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/about.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/archive.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/index.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/keynote.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/layout.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/page.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/post.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/tags.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/archive.styl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/beantech.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/beantech.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/highlight.styl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/hux-blog.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/rocket.styl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/signature.styl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/toc.styl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/widget.styl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/hux-blog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/hux-blog.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/jquery.nav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/jquery.tagcloud.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/toc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/totop.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_posts/Git 分支管理&amp;发版流程.md" afterPath="$PROJECT_DIR$/hexo-beantech/source/_posts/Git 分支管理&amp;发版流程.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_posts/JS简述.md" afterPath="$PROJECT_DIR$/hexo-beantech/source/_posts/JS简述.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/_posts/Shadowsocks-server.md" afterPath="$PROJECT_DIR$/hexo-beantech/source/_posts/Shadowsocks-server.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,11 +111,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="65" column="16" lean-forward="false" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+            <state relative-caret-position="335">
+              <caret line="65" column="15" lean-forward="false" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -46,8 +131,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Git 分支管理&amp;发版流程.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_posts/Git 分支管理&amp;发版流程.md">
+      <file leaf-file-name="Git 分支管理&amp;发版流程.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hexo-beantech/source/_posts/Git 分支管理&amp;发版流程.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="285">
@@ -55,6 +140,16 @@
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hexo-beantech/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="135" column="14" lean-forward="false" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,6 +179,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Deployer</find>
+      <find>home_posts_tag</find>
+      <find>Your Title</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -93,7 +190,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/source/_posts/Git 分支管理&amp;发版流程.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -104,6 +203,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/hexo-beantech/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -137,71 +237,7 @@
             <path>
               <item name="lk-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="lk-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lk-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lk-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="2017" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lk-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lk-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="2017" type="462c0819:PsiDirectoryNode" />
-              <item name="10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lk-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lk-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="2017" type="462c0819:PsiDirectoryNode" />
-              <item name="10" type="462c0819:PsiDirectoryNode" />
-              <item name="15" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lk-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lk-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="2017" type="462c0819:PsiDirectoryNode" />
-              <item name="10" type="462c0819:PsiDirectoryNode" />
-              <item name="15" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lk-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lk-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="archives" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lk-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lk-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lk-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lk-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lk-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lk-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lk-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lk-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lk-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lk-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="landscape" type="462c0819:PsiDirectoryNode" />
+              <item name="hexo-beantech" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -219,7 +255,11 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hexo-beantech/source/_posts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/source" />
       <recent name="$PROJECT_DIR$/source/_posts" />
     </key>
@@ -249,15 +289,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508002067256</updated>
-      <workItem from="1508002069151" duration="1526000" />
+      <workItem from="1508002069151" duration="2365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1526000" />
+    <option name="totallyTimeSpent" value="2365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="953" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -266,7 +307,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -288,14 +329,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -312,14 +345,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="65" column="16" lean-forward="false" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -328,7 +353,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/Git 分支管理&amp;发版流程.md">
+    <entry file="file://$PROJECT_DIR$/hexo-beantech/source/_posts/Git 分支管理&amp;发版流程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="285">
@@ -336,6 +361,30 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-beantech/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="135" column="14" lean-forward="false" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="65" column="15" lean-forward="false" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
