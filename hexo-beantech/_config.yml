@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Your Title
-subtitle: This is hexo theme
-author: John Doe
-language:
+title: Kai.Li's Blog
+subtitle: Less is more
+author: Kai.Li
+language: zh-Hans
 timezone:
 
 # URL
@@ -177,5 +177,4 @@ sitemap:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/YenYuHsuan/hexo-theme-beantech.git
-  branch: gh-page
+  repo: https://github.com/likai757/likai757.github.io.git,master
