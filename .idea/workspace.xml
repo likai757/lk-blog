@@ -2,8 +2,184 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5239267-c8d3-42c8-ba49-f11700a450f9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hexo-beantech/package-lock.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hexo-beantech/scaffolds/draft.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hexo-beantech/scaffolds/page.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hexo-beantech/scaffolds/post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hexo-beantech/source/CNAME" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/uploads/avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/uploads/git-flow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/_config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/languages/default.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/languages/fr.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/languages/nl.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/languages/no.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/languages/ru.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/languages/zh-CN.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/languages/zh-TW.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/after-footer.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/archive-post.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/archive.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/article.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/footer.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/google-analytics.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/head.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/header.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/mobile-nav.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/category.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/date.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/gallery.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/nav.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/tag.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/title.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/sidebar.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/archive.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/category.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/recent_posts.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/tag.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/tagcloud.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/archive.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/category.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/index.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/layout.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/page.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/post.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/layout/tag.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/scripts/fancybox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/_extend.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/archive.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/article.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/comment.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/footer.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/header.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/highlight.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/mobile.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar-aside.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar-bottom.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/_util/grid.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/_util/mixin.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/_variables.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/images/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/css/style.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_loading@2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_sprite@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/fancybox_buttons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-media.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/landscape/source/js/script.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/404.md" afterPath="$PROJECT_DIR$/source/404.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/_posts/Git 分支管理&amp;发版流程.md" afterPath="$PROJECT_DIR$/source/_posts/Git 分支管理&amp;发版流程.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/_posts/JS简述.md" afterPath="$PROJECT_DIR$/source/_posts/JS简述.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/_posts/Shadowsocks-server.md" afterPath="$PROJECT_DIR$/source/_posts/Shadowsocks-server.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/about/index.md" afterPath="$PROJECT_DIR$/source/about/index.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/archive/index.md" afterPath="$PROJECT_DIR$/source/archive/index.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/img/404-bg.jpg" afterPath="$PROJECT_DIR$/source/img/404-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/img/beantech-desktop.png" afterPath="$PROJECT_DIR$/source/img/beantech-desktop.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/img/contact-bg.jpg" afterPath="$PROJECT_DIR$/source/img/contact-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/img/header_img/Iron-Man-3.jpg" afterPath="$PROJECT_DIR$/source/img/header_img/Iron-Man-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/img/header_img/archive-bg.png" afterPath="$PROJECT_DIR$/source/img/header_img/archive-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/img/header_img/home-bg-2-dark.png" afterPath="$PROJECT_DIR$/source/img/header_img/home-bg-2-dark.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/img/header_img/home-bg-o.png" afterPath="$PROJECT_DIR$/source/img/header_img/home-bg-o.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/img/header_img/tag-bg.png" afterPath="$PROJECT_DIR$/source/img/header_img/tag-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/img/header_img/tf-logo-dark.png" afterPath="$PROJECT_DIR$/source/img/header_img/tf-logo-dark.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/img/icon_wechat.png" afterPath="$PROJECT_DIR$/source/img/icon_wechat.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/img/ironman-draw.png" afterPath="$PROJECT_DIR$/source/img/ironman-draw.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/img/signature/BeanTechSign-black.png" afterPath="$PROJECT_DIR$/source/img/signature/BeanTechSign-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/img/signature/BeanTechSign-white.png" afterPath="$PROJECT_DIR$/source/img/signature/BeanTechSign-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/source/tags/index.md" afterPath="$PROJECT_DIR$/source/tags/index.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/LICENSE" afterPath="$PROJECT_DIR$/themes/beantech/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/_config.yml" afterPath="$PROJECT_DIR$/themes/beantech/_config.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/de.yml" afterPath="$PROJECT_DIR$/themes/beantech/languages_to_be_added/de.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/default.yml" afterPath="$PROJECT_DIR$/themes/beantech/languages_to_be_added/default.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/en.yml" afterPath="$PROJECT_DIR$/themes/beantech/languages_to_be_added/en.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/es.yml" afterPath="$PROJECT_DIR$/themes/beantech/languages_to_be_added/es.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/no.yml" afterPath="$PROJECT_DIR$/themes/beantech/languages_to_be_added/no.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/pl.yml" afterPath="$PROJECT_DIR$/themes/beantech/languages_to_be_added/pl.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/ru.yml" afterPath="$PROJECT_DIR$/themes/beantech/languages_to_be_added/ru.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/zh-CN.yml" afterPath="$PROJECT_DIR$/themes/beantech/languages_to_be_added/zh-CN.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/languages_to_be_added/zh-TW.yml" afterPath="$PROJECT_DIR$/themes/beantech/languages_to_be_added/zh-TW.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/404.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/404.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_partial/footer.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/_partial/footer.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_partial/head.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/_partial/head.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_partial/header.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/_partial/header.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_partial/nav.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/_partial/nav.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_partial/pagination.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/_partial/pagination.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_partial/sidebar.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/_partial/sidebar.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_partial/toc.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/_partial/toc.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_widget/archive.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/_widget/archive.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_widget/category.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/_widget/category.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_widget/featured-tags.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/_widget/featured-tags.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_widget/friends-blog.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/_widget/friends-blog.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_widget/recent-posts.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/_widget/recent-posts.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/_widget/short-about.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/_widget/short-about.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/about.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/about.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/archive.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/archive.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/index.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/index.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/keynote.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/keynote.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/layout.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/layout.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/page.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/page.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/post.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/post.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/layout/tags.ejs" afterPath="$PROJECT_DIR$/themes/beantech/layout/tags.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/archive.styl" afterPath="$PROJECT_DIR$/themes/beantech/source/css/archive.styl" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/beantech.css" afterPath="$PROJECT_DIR$/themes/beantech/source/css/beantech.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/beantech.min.css" afterPath="$PROJECT_DIR$/themes/beantech/source/css/beantech.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/bootstrap.css" afterPath="$PROJECT_DIR$/themes/beantech/source/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/themes/beantech/source/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/highlight.styl" afterPath="$PROJECT_DIR$/themes/beantech/source/css/highlight.styl" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/hux-blog.min.css" afterPath="$PROJECT_DIR$/themes/beantech/source/css/hux-blog.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/images/ironman.png" afterPath="$PROJECT_DIR$/themes/beantech/source/css/images/ironman.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/images/rocket.png" afterPath="$PROJECT_DIR$/themes/beantech/source/css/images/rocket.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/rocket.styl" afterPath="$PROJECT_DIR$/themes/beantech/source/css/rocket.styl" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/signature.styl" afterPath="$PROJECT_DIR$/themes/beantech/source/css/signature.styl" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/toc.styl" afterPath="$PROJECT_DIR$/themes/beantech/source/css/toc.styl" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/css/widget.styl" afterPath="$PROJECT_DIR$/themes/beantech/source/css/widget.styl" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/themes/beantech/source/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/themes/beantech/source/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/themes/beantech/source/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/themes/beantech/source/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/themes/beantech/source/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/bootstrap.js" afterPath="$PROJECT_DIR$/themes/beantech/source/js/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/themes/beantech/source/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/hux-blog.js" afterPath="$PROJECT_DIR$/themes/beantech/source/js/hux-blog.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/hux-blog.min.js" afterPath="$PROJECT_DIR$/themes/beantech/source/js/hux-blog.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/jquery.js" afterPath="$PROJECT_DIR$/themes/beantech/source/js/jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/jquery.min.js" afterPath="$PROJECT_DIR$/themes/beantech/source/js/jquery.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/jquery.nav.js" afterPath="$PROJECT_DIR$/themes/beantech/source/js/jquery.nav.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/jquery.tagcloud.js" afterPath="$PROJECT_DIR$/themes/beantech/source/js/jquery.tagcloud.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/toc.js" afterPath="$PROJECT_DIR$/themes/beantech/source/js/toc.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hexo-beantech/themes/beantech/source/js/totop.js" afterPath="$PROJECT_DIR$/themes/beantech/source/js/totop.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scaffolds/draft.md" afterPath="$PROJECT_DIR$/scaffolds/draft.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scaffolds/page.md" afterPath="$PROJECT_DIR$/scaffolds/page.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scaffolds/post.md" afterPath="$PROJECT_DIR$/scaffolds/post.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/CNAME" afterPath="$PROJECT_DIR$/source/CNAME" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,94 +193,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="71" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/CNAME">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Git 分支管理&amp;发版流程.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hexo-beantech/source/_posts/Git 分支管理&amp;发版流程.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hexo-beantech/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="178" column="11" lean-forward="false" selection-start-line="178" selection-start-column="11" selection-end-line="178" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hexo-beantech/source/CNAME">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hexo-beantech/.deploy_git/tags/git/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="db.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="398">
+              <caret line="177" column="7" lean-forward="true" selection-start-line="177" selection-start-column="7" selection-end-line="177" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -116,8 +209,8 @@
     <findStrings>
       <find>Deployer</find>
       <find>Your Title</find>
-      <find>home_posts_tag</find>
       <find>beantech</find>
+      <find>home_posts_tag</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -142,13 +235,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/hexo-beantech/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="2560" />
-    <option name="height" value="1329" />
+    <option name="width" value="1680" />
+    <option name="height" value="964" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -176,32 +268,14 @@
             <path>
               <item name="lk-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="lk-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="hexo-beantech" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lk-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lk-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="hexo-beantech" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lk-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lk-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="hexo-beantech" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lk-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lk-blog" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,13 +286,14 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/hexo-beantech/source/_posts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/source" />
       <recent name="$PROJECT_DIR$/source/_posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/hexo-beantech/source/_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -246,32 +321,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508002067256</updated>
-      <workItem from="1508002069151" duration="3189000" />
+      <workItem from="1508002069151" duration="3230000" />
+      <workItem from="1510130960060" duration="735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3189000" />
+    <option name="totallyTimeSpent" value="3965000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="953" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="964" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26006904" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -286,11 +362,59 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.deploy_git/tags/git/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="178" column="11" lean-forward="false" selection-start-line="178" selection-start-column="11" selection-end-line="178" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Git 分支管理&amp;发版流程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/db.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -302,61 +426,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hexo-beantech/source/_posts/Git 分支管理&amp;发版流程.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-            <folding />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1506174020000" expanded="true" signature="2582:2809" ph="{...}" />
+              <marker date="1506174020000" expanded="true" signature="2610:2698" ph="{&quot;visible&quot;: 'hover'...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/img/beantech-desktop.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="71" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hexo-beantech/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="178" column="11" lean-forward="false" selection-start-line="178" selection-start-column="11" selection-end-line="178" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hexo-beantech/source/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hexo-beantech/.deploy_git/tags/git/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="398">
+          <caret line="177" column="7" lean-forward="true" selection-start-line="177" selection-start-column="7" selection-end-line="177" selection-end-column="7" />
           <folding />
         </state>
       </provider>
